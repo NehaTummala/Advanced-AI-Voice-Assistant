@@ -24,28 +24,18 @@ This project implements an AI-powered voice-enabled chatbot utilizing OpenAI's G
 git clone https://github.com/your-username/openai-voice-chatbot.git
 cd openai-voice-chatbot
 
-text
-
 2. Set up a Python virtual environment:
 python -m venv .venv
 source .venv/bin/activate # On macOS/Linux
 
-text
-
-3. Install the required dependencies:
+4. Install the required dependencies:
 pip install -r requirements.txt
-
-text
 
 4. Configure your OpenAI API key in a .env file:
 OPENAI_API_KEY=your_api_key_here
 
-text
-
 5. Run the application:
 streamlit run app.py
-
-text
 
 ## Future Improvements 📌
 
