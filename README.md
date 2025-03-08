@@ -21,7 +21,8 @@ This project implements an AI-powered voice-enabled chatbot utilizing OpenAI's G
 ## Setup and Installation 📦
 
 1. Clone the repository:
-git clone https://github.com/your-username/openai-voice-chatbot.git
+git clone https://github.com/NehaTummala/Advanced-AI-Voice-Assistant
+
 cd openai-voice-chatbot
 
 2. Set up a Python virtual environment:
