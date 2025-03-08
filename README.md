@@ -23,7 +23,7 @@ This project implements an AI-powered voice-enabled chatbot utilizing OpenAI's G
 1. Clone the repository:
 git clone https://github.com/NehaTummala/Advanced-AI-Voice-Assistant
 
-cd openai-voice-chatbot
+  cd openai-voice-chatbot
 
 2. Set up a Python virtual environment:
 python -m venv .venv
